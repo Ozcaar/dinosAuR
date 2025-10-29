@@ -1,0 +1,26 @@
+[
+  {
+    "id": "trex",
+    "displayName": "Tyrannosaurus rex",
+    "heightMeters": 4.0,
+    "lengthMeters": 12.3,
+    "diet": "Carnívoro",
+    "period": "Cretácico tardío"
+  },
+  {
+    "id": "triceratops",
+    "displayName": "Triceratops horridus",
+    "heightMeters": 3.0,
+    "lengthMeters": 9.0,
+    "diet": "Herbívoro",
+    "period": "Cretácico tardío"
+  },
+  {
+    "id": "velociraptor",
+    "displayName": "Velociraptor mongoliensis",
+    "heightMeters": 0.5,
+    "lengthMeters": 2.0,
+    "diet": "Carnívoro",
+    "period": "Cretácico tardío"
+  }
+]
